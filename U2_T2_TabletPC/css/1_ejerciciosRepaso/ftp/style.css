@@ -1,0 +1,16 @@
+
+figure{
+    padding: 4px;
+    text-align: center;
+}
+
+figure img {
+    width: 80%;
+}
+
+figcaption {
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+  }
